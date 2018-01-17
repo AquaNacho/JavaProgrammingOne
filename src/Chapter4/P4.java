@@ -9,7 +9,6 @@ import java.util.Scanner;
  *
  * @author Garrett Bolding
  */
-
 public class P4 {
 
     /**
