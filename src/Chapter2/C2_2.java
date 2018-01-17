@@ -7,7 +7,6 @@ import java.util.Scanner;
  *
  * @author Garrett Bolding
  */
-
 public class C2_2 {
 
     /**
